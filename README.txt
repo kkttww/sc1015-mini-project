@@ -22,6 +22,10 @@ iPython Notebook in this folder:
 	- In depth Analysis of the datasets
 	- Findings that the sellers can take note of 
 
+Contributions:
+Kiew Ten Wei - Code, Slide, Recording
+Lester Kwek Zuo Wei - Code, Slide, Recording
+
 
 Finally, please find attached our powerpoint slides for our video presentation.
 
