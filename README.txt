@@ -27,7 +27,6 @@ Kiew Ten Wei - Code, Slide, Recording
 Lester Kwek Zuo Wei - Code, Slide, Recording
 
 
-Finally, please find attached our powerpoint slides for our video presentation.
 
 References:
 https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestRegressor.html
